@@ -51,4 +51,4 @@ pip install pandas numpy scikit-learn matplotlib nltk
 
 5. **Model Training**
 
-   A machine learning model is trained using Random Forest Classifier algorithm.
+   The machine learning model is trained using Random Forest Classifier algorithm.
